@@ -1,7 +1,6 @@
 # Raspberry Pi Screen Setup
 
 ## Required Tools 
----
 - USB Mouse
 - USB Keyboard
 - SD Card Reader
@@ -9,11 +8,9 @@
 - Full Raspberry Pi Kit
 
 ## Copying ISO To New SD Card
----
 
 
 ## Set Up Web Browser Autostart
----
 Open a terminal and enter the following command to navigate to the autostart directory </br>
 `cd .config/autostart` </br>
 Edit the startup script by entering the following command; the file should be empty </br>
